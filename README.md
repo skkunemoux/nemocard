@@ -33,3 +33,5 @@ Increasing the limit of inotify watchers solves that problem.
 # echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf
 # sudo sysctl -p
 ```
+## Sources Used
+You can view sources used here: [licenses.xlsx](licenses.xlsx) (Generated via FOSSLight Source Scanner)
